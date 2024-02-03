@@ -8,12 +8,13 @@ I also worked as a computational astrophysicist developing software and predicti
 
 My main competencies:
 
-- Leadership
+- Management & Leadership
 - Software Development (Python, C++)
 - Quantum Computing
-- Data Science & Data Engineering (ETLs, Database Management, Predictive modelling)
+- Data Science & Data Engineering (ETLs, Database Management, Predictive Modelling)
 - Machine Learning (MLOps)
 - High Performance Computing
+- Teaching and Instruction
 - Theoretical Physics
 
 Here's my personal website: www.alexpreciado.com
