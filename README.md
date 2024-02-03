@@ -8,7 +8,7 @@ I also worked as a computational astrophysicist developing software and predicti
 
 My main competencies:
 
-- Management & Leadership
+- Strategic Planning, Team Management & Leadership
 - Software Development (Python, C++)
 - Quantum Computing
 - Data Science & Data Engineering (ETLs, Database Management, Predictive Modelling)
