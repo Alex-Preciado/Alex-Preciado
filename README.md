@@ -10,8 +10,8 @@ My main competencies:
 
 - Leadership
 - Software Development (Python, C++)
-- Data Science (predictive modelling)
-- Data Engineering (ETLs, Database Management)
+- Quantum Computing
+- Data Science & Data Engineering (ETLs, Database Management, Predictive modelling)
 - Machine Learning (MLOps)
 - High Performance Computing
 - Theoretical Physics
