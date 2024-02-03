@@ -10,12 +10,11 @@ My main competencies:
 
 - Strategic Planning, Team Management & Leadership
 - Software Development (Python, C++)
-- Quantum Computing
+- High Performance Computing
 - Data Science & Data Engineering (ETLs, Database Management, Predictive Modelling)
 - Machine Learning (MLOps)
-- High Performance Computing
 - Teaching and Instruction
-- Theoretical Physics
+- Theoretical Physics (Quantum Computing and Astrophysics)
 
 Here's my personal website: www.alexpreciado.com
 
